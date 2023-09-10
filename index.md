@@ -1,3 +1,3 @@
-https://github.com/narendradzulqarnain/os232/blob/master/TXT/mylog.txt
-https://github.com/narendradzulqarnain/os232/tree/master
-https://github.com/narendradzulqarnain/os232/blob/master/links.md
+[LOG](https://github.com/narendradzulqarnain/os232/blob/master/TXT/mylog.txt) ||
+[GITHUB](https://github.com/narendradzulqarnain/os232/)
+[LINKS](https://github.com/narendradzulqarnain/os232/blob/master/links.md)
