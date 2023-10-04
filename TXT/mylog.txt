@@ -33,3 +33,10 @@ ZCZC W03 15 L04 GitHub Pages related
 ZCZC W03 70 L05 Quiz related including studying
 ZCZC W03 120 L09 Weekly Assignments
 ZCZC W03 10 L41 TXT/mylog.txt related
+ZCZC W04 20 L00 General, etc.
+ZCZC W04 15 L01 SCELE/Discord related
+ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 15 L04 GitHub Pages related
+ZCZC W04 140 L09 Weekly Assignments
+ZCZC W04 15 L41 TXT/mylog.txt related
