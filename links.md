@@ -6,3 +6,4 @@ permalink: LINKS/
 * [Basic Vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html) --- This website contains basic commands for vi editor
 * [Writing Bash Script Tutorial](https://www.youtube.com/watch?v=F-gskSl4pwQ) --- Youtube tutorial on how to write bash script
 * [Basic Regular Expressions in 15 minutes](https://www.youtube.com/watch?v=bgBWp9EIlMM) --- Regex tutorial on youtube
+* [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- Fork system call explanation article
