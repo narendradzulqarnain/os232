@@ -8,3 +8,4 @@ permalink: LINKS/
 * [Basic Regular Expressions in 15 minutes](https://www.youtube.com/watch?v=bgBWp9EIlMM) --- Regex tutorial on youtube
 * [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- Fork system call explanation article
 * [SCP Commands in Linux](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/) --- Explanation, syntax, and examples of scp command.
+* [How to build Linux From Scratch (LFS) by Kernotex](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) --- Youtube playlist for demonstration and explanation on building lfs
